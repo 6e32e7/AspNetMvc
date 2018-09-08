@@ -15,6 +15,7 @@ namespace AspNetMvcGitHubSample1.Controllers
             var var1 = "";
             var var2 = "";
             var var3 = "";
+            var var5 = "";            
             return View();
         }
     }
