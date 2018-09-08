@@ -11,7 +11,7 @@ namespace AspNetMvcGitHubSample1.Controllers
         // GET: Home
         public ActionResult Index()
         {
-        //added comment for testing
+     
             return View();
         }
     }
