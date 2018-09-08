@@ -20,6 +20,9 @@ namespace AspNetMvcGitHubSample1.Controllers
 
             var fromFixedBug = "here";
             var fromFixedBug = "update from child";
+
+            var pullrequest = "send";
+
             return View();
         }
     }
