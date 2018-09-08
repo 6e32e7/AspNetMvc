@@ -13,6 +13,7 @@ namespace AspNetMvcGitHubSample1.Controllers
         {
             var fix = "fixed";
             var var1 = "";
+            var var2 = "";
             var var3 = "";
             return View();
         }
