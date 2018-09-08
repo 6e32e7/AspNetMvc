@@ -11,6 +11,7 @@ namespace AspNetMvcGitHubSample1.Controllers
         // GET: Home
         public ActionResult Index()
         {
+  
             //sync
             return View();
         }
