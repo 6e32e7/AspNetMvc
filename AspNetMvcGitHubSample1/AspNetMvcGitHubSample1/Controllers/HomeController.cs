@@ -12,6 +12,8 @@ namespace AspNetMvcGitHubSample1.Controllers
         public ActionResult Index()
         {
             var fix = "fixed";
+            var var1 = "";
+            var var3 = "";
             return View();
         }
     }
