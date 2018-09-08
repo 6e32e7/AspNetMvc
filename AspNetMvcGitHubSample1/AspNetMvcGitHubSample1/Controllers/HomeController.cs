@@ -16,6 +16,11 @@ namespace AspNetMvcGitHubSample1.Controllers
             var var2 = "";
             var var3 = "";
             var var4 = "";
+            var var5 = "";
+
+            var fromFixedBug = "here";
+            var fromFixedBug = "update from child";
+            var var4 = "";
             return View();
         }
     }
