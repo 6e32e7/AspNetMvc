@@ -11,8 +11,7 @@ namespace AspNetMvcGitHubSample1.Controllers
         // GET: Home
         public ActionResult Index()
         {
-  
-            //sync
+            var fix = "fixed";
             return View();
         }
     }
