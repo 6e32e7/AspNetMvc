@@ -18,9 +18,9 @@ namespace AspNetMvcGitHubSample1.Controllers
             var var4 = "";
             var var5 = "";
 
-            var fromFixedBug = "update from child";
+            var fromFixedBug = "here";
 
-            var commitFromMaster = "master";
+            var pullrequest = "send";
 
             return View();
         }
